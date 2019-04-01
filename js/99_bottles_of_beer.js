@@ -4,9 +4,9 @@ if(count > 1) {
   
   minus = count - 1;
 
-  console.log("count + "bottles of beer on the wall,\n"
-   + count + "bottles of beer. \n"  +
-"Take one down, pass it around,\n"
+  console.log("count + "bottles of beer on the wall,"
+   + count + "bottles of beer.
+Take one down, pass it around,\n"
 + minus + "bottles of beer on the wall...\n"");
 
 beersong(minus);
